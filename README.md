@@ -1,1 +1,2 @@
 # task-3
+It focus on building and understanding a linear regression model using the House Price Prediction dataset. The goal is to predict house prices based on input features. You begin by importing and preprocessing the data, then split it into training and testing sets. A linear regression model is trained using Scikit-learn, and its performance is evaluated using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² score. The task also involves interpreting model coefficients and visualizing the relationship between actual and predicted prices.
